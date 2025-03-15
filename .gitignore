@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite
+.venv/
+venv/
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
